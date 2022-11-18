@@ -58,3 +58,11 @@ header .hero{
     margin-left: 10px;
 }
 /* ARTICLE END */
+
+/* SECTION GALLERY */
+.gallery{
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+}
+/* SECTION GALLERY END */
